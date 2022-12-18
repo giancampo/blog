@@ -1,0 +1,14 @@
+{
+  "hash": "7ff8a174fbd044c20fe0b2a8d805bfbb",
+  "result": {
+    "markdown": "---\ntitle: \"Hello workd on Quarto\"\nauthor: \"giancampo\"\ndate: \"2022-12-18\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n\nlet me write something else just to test it will be published.\n\n# this is some markdown\n\nhere is some text in *italics* and here some text in **bold**\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
