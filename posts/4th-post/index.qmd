@@ -1,0 +1,24 @@
+---
+title: "Hello world on Quarto"
+author: "giancampo"
+date: "2022-12-18"
+categories: [news, code, analysis]
+image: "image.jpg"
+toc: true
+---
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```
+
+let me write something else just to test it will be published.
+
+# 1. let's try with this post
+
+here is some text in *italics* and here some text in **bold**
+
+# 2. another paragraph
+
+another text
