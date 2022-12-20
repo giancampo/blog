@@ -1,0 +1,26 @@
+---
+title: "3rd hello world on Quarto"
+author: "giancampo"
+date: "2022-12-20"
+categories: [news, code, analysis, test-category]
+image: "image.jpg"
+toc: true
+---
+
+*This is the 3rd post with executable code.*
+
+```{r}
+1 + 1
+```
+
+# 1. This is some markdown
+
+here is some text in *italics* and here some text in **bold**
+
+# 2. Second paragraph to test a TOC
+
+here's some other text to conclude this paragraph
+
+# 3. Here's another paragraph
+
+lorem ipsum dolor sit amet
