@@ -1,0 +1,14 @@
+{
+  "hash": "b9d68e78b763bc97e5fdc810601f138f",
+  "result": {
+    "markdown": "---\ntitle: \"3rd hello world on Quarto\"\nauthor: \"giancampo\"\ndate: \"2022-12-20\"\ncategories: [news, code, analysis, test-category]\nimage: \"image.jpg\"\ntoc: true\n---\n\n\n*This is the 3rd post with executable code.*\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n\n# 1. This is some markdown\n\nhere is some text in *italics* and here some text in **bold**\n\n# 2. Second paragraph to test a TOC\n\nhere's some other text to conclude the blog post\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

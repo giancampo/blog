@@ -11,34 +11,41 @@
     "href": "index.html",
     "title": "giancampo_blog",
     "section": "",
-    "text": "Second Hello world on Quarto\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 19, 2022\n\n\ngiancampo\n\n\n\n\n\n\n  \n\n\n\n\nHello world on Quarto\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2022\n\n\ngiancampo\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 15, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "news\n\n\ncode\n\n\nanalysis\n\n\ntest-category\n\n\n\n\n\n\n\n\n\n\n\nDec 20, 2022\n\n\ngiancampo\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 19, 2022\n\n\ngiancampo\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2022\n\n\ngiancampo\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 15, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/another-new-post/index.html",
     "href": "posts/another-new-post/index.html",
     "title": "Second Hello world on Quarto",
     "section": "",
-    "text": "This is a SECOND post with executable code.\n\n1 + 1\n\n[1] 2\n\n\n\nthis is some markdown\nhere is some text in italics and here some text in bold"
+    "text": "1 + 1\n\n[1] 2\n\n\n\nthis is some markdown\nhere is some text in italics and here some text in bold"
   },
   {
     "objectID": "posts/new-post/index.html",
     "href": "posts/new-post/index.html",
     "title": "Hello workd on Quarto",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2\n\n\nlet me write something else just to test it will be published.\n\nthis is some markdown\nhere is some text in italics and here some text in bold"
+    "text": "1 + 1\n\n[1] 2\n\n\nlet me write something else just to test it will be published.\n\nthis is some markdown\nhere is some text in italics and here some text in bold"
   },
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "1 + 1\n\n[1] 2"
   },
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/third-new-post/index.html",
+    "href": "posts/third-new-post/index.html",
+    "title": "3rd hello world on Quarto",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2\n\n\n\n1. This is some markdown\nhere is some text in italics and here some text in bold\n\n\n2. Second paragraph to test a TOC\nhere’s some other text to conclude the blog post"
   }
 ]
